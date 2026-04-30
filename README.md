@@ -10,7 +10,7 @@ Analyser les performances du CAC 40 à travers des visualisations interactives a
 
 ## 📊 Dashboard Power BI
 
-![Dashboard](DASHBOARD CAC 40 1.png)
+![Dashboard](images/DASHBOARD CAC 40 1.png)
 
 ## 📈 Analyse
 
