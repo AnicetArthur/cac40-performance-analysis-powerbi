@@ -8,9 +8,6 @@ Comment les performances du CAC 40 ont-elles évolué de 2017 à 2019, et quelle
 
 Analyser les performances du CAC 40 à travers des visualisations interactives afin d’identifier les tendances et les facteurs influençant le marché.
 
-## 📊 Dashboard Power BI
-
-![Dashboard](images/DASHBOARD CAC 40 1.png)
 
 ## 📈 Analyse
 
